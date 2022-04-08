@@ -1,0 +1,15 @@
+title: <titulo del blog>
+email: <tu mail>
+description: >-
+  <Una descripción 
+  de varias líneas
+  acerca de tu blog.>
+baseurl: "/tu-repositorio"
+domain: tu-usuario.github.io
+url: "http://tu-usuario.github.io/"
+twitter_username: <tu twitter>
+github_username:  <tu github>
+
+theme: <tu tema elegido>
+plugins:
+  - jekyll-feed
