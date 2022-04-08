@@ -9,7 +9,10 @@ domain: tu-usuario.github.io
 url: "http://tu-usuario.github.io/"
 twitter_username: <tu twitter>
 github_username:  <tu github>
+paginate: 5
+paginate_path: "/page:num/"
 
 theme: <tu tema elegido>
 plugins:
   - jekyll-feed
+  - jekyll-paginate
