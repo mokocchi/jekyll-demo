@@ -1,18 +1,14 @@
-title: <titulo del blog>
-email: <tu mail>
+title: Jekyll Demo
+email: j2arcidiacono@outlook.com
 description: >-
-  <Una descripción 
-  de varias líneas
-  acerca de tu blog.>
-baseurl: "/tu-repositorio"
-domain: tu-usuario.github.io
-url: "http://tu-usuario.github.io/"
-twitter_username: <tu twitter>
-github_username:  <tu github>
-paginate: 5
-paginate_path: "/page:num/"
+  Una demo de como hacer un blog en Jekyll
+baseurl: "/jekyll-config"
+domain: mokocchi.github.io
+url: "http://mokocchi.github.io/"
+twitter_username: mokonahyuu
+github_username:  mokocchi
 
-theme: <tu tema elegido>
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
