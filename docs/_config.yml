@@ -7,6 +7,9 @@ domain: mokocchi.github.io
 url: "http://mokocchi.github.io/jekyll-demo"
 twitter_username: mokonahyuu
 github_username:  mokocchi
+paginate: 5
+paginate_path: "/page:num/"
+show_excerpts: true
 
 theme: jekyll-theme-slate
 plugins:
