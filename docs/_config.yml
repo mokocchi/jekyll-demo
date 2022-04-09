@@ -4,7 +4,7 @@ description: >-
   Una demo de como hacer un blog en Jekyll
 baseurl: "/jekyll-config"
 domain: mokocchi.github.io
-url: "http://mokocchi.github.io/"
+url: "http://mokocchi.github.io/jekyll-config"
 twitter_username: mokonahyuu
 github_username:  mokocchi
 
