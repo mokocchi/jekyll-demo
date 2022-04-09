@@ -2,7 +2,7 @@ title: Jekyll Demo
 email: j2arcidiacono@outlook.com
 description: >-
   Una demo de como hacer un blog en Jekyll
-baseurl: "/jekyll-config"
+baseurl: "/jekyll-demo"
 domain: mokocchi.github.io
 url: "http://mokocchi.github.io/jekyll-demo"
 twitter_username: mokonahyuu
